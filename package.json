@@ -15,9 +15,6 @@
   "author": "",
   "license": "ISC",
   "homepage": "https://github.com/fuentesrichard/online-store-server#readme",
-  "dependencies": {
-    "jason-server": "^3.0.0"
-  },
   "bugs": {
     "url": "https://github.com/fuentesrichard/online-store-server/issues"
   },
